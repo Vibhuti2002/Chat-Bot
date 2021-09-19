@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Chat Bot</string>
+    <string name="login_here">Login here</string>
+    <string name="welcome">Welcome</string>
+    <string name="this_is_a_sample_message_that_will_appear" tools:ignore="DuplicateDefinition">This is a sample message that will appear</string>
+    <string name="send">Send</string>
+
+</resources>

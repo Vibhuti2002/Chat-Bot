@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:backgroundTint="#353535"
+    tools:context=".HomeActivity">
+
+    <Button
+        android:id="@+id/EmailloginBtn"
+        android:layout_width="250dp"
+        android:layout_height="57dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="293dp"
+        android:layout_marginEnd="81dp"
+        android:height="20sp"
+        android:backgroundTint="@color/black"
+        android:padding="6dp"
+        android:text="login With email"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:cornerRadius="10dp" />
+
+    <Button
+        android:id="@+id/smsloginBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_below="@+id/EmailloginBtn"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginEnd="36dp"
+       android:backgroundTint="@color/black"
+        android:padding="6dp"
+        android:text="login With Mobile Number"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:cornerRadius="10dp" />
+
+</RelativeLayout>
