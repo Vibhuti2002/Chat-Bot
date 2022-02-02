@@ -8,13 +8,12 @@
 
 ![Screenshot_20210919-192024_Chat Bot](https://user-images.githubusercontent.com/86654213/133930481-71ef4924-565b-47ac-8d3d-4499a101a9c6.jpg)
 
+
 ![Screenshot_20210919-193013_Chat Bot](https://user-images.githubusercontent.com/86654213/133930499-b60a63e0-e4c1-4269-a051-9e6c5270e6cc.jpg)
 
 # Video
 https://user-images.githubusercontent.com/86654213/133930981-7237266b-80a5-4f17-8c83-1ce015d2d12d.mp4
 
-# Link
-https://drive.google.com/file/d/1iZbyVYyIv8C1n0ftn3L7xiidx9nxA5lF/view?usp=sharing
-
+.
 
 
